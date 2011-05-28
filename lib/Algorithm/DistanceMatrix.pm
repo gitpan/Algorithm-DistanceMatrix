@@ -3,7 +3,7 @@
 
 package Algorithm::DistanceMatrix;
 BEGIN {
-  $Algorithm::DistanceMatrix::VERSION = '0.02';
+  $Algorithm::DistanceMatrix::VERSION = '0.03';
 }
 use Moose;
 
@@ -66,7 +66,7 @@ Algorithm::DistanceMatrix - Compute distance matrix for any distance metric
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 SYNOPSIS
 
@@ -114,7 +114,7 @@ Algorithm::DistanceMatrix - Compute distance matrix for any distance metric
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 METHODS
 
